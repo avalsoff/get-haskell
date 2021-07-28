@@ -1,1 +1,1 @@
-# Get Programming in Haskell
+# Get Programming with Haskell
